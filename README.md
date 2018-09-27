@@ -1,3 +1,3 @@
 # ETF-RG-3D
-
-Zadatak B.
+Domaći zadatak iz predmeta Računarska grafika, JavaFX 3D.
+Školska 2017/18. godina, zadatak B.
